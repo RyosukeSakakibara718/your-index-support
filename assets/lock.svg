@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="96" height="96" viewBox="0 0 96 96"><title>YOUR INDEX — LockMark</title><defs>
+<linearGradient id="blue" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#5C83FF"/><stop offset=".48" stop-color="#2B5AF5"/><stop offset="1" stop-color="#153CC1"/></linearGradient>
+<linearGradient id="paper" x1="0" y1="0" x2=".8" y2="1"><stop stop-color="#FFFFFF"/><stop offset="1" stop-color="#EAF0FF"/></linearGradient>
+<linearGradient id="edge" x1="0" y1="0" x2="1" y2=".8"><stop stop-color="#95ABFF"/><stop offset="1" stop-color="#DCE5FF"/></linearGradient>
+<linearGradient id="mint" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#BEF7EB"/><stop offset="1" stop-color="#50CDBB"/></linearGradient>
+</defs>
+<rect x="13" y="12" width="70" height="72" rx="24" fill="#EEF3FF"/>
+<path d="M31 41v-9a17 17 0 0 1 34 0v9" fill="none" stroke="url(#edge)" stroke-width="9"/>
+<path d="M31 41v-9a17 17 0 0 1 34 0v9" fill="none" stroke="#2455F5" stroke-width="4"/>
+<rect x="23" y="36" width="50" height="42" rx="13" fill="url(#blue)"/>
+<path d="M32 37h31a9 9 0 0 1 9 9" fill="none" stroke="#ACC2FF" stroke-width="1.4"/>
+<circle cx="48" cy="52" r="6" fill="#FFFFFF"/><path d="M45 55h6l2 10H43Z" fill="#BCF6E8"/>
+<path d="m72 19 3 5 6 1-4 4 1 6-6-3-5 3 1-6-4-4 6-1Z" fill="url(#mint)"/>
+</svg>

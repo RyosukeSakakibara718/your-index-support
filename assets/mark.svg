@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"><title>YOUR INDEX — ShelfMark</title><defs>
+<linearGradient id="blue" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#5C83FF"/><stop offset=".48" stop-color="#2B5AF5"/><stop offset="1" stop-color="#153CC1"/></linearGradient>
+<linearGradient id="paper" x1="0" y1="0" x2=".8" y2="1"><stop stop-color="#FFFFFF"/><stop offset="1" stop-color="#EAF0FF"/></linearGradient>
+<linearGradient id="edge" x1="0" y1="0" x2="1" y2=".8"><stop stop-color="#95ABFF"/><stop offset="1" stop-color="#DCE5FF"/></linearGradient>
+<linearGradient id="mint" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#BEF7EB"/><stop offset="1" stop-color="#50CDBB"/></linearGradient>
+</defs>
+<path d="M30 16h64a16 16 0 0 1 16 16v71a13 13 0 0 1-13 13H35a17 17 0 0 1-17-17V32a16 16 0 0 1 12-16Z" fill="#153579" opacity=".08"/>
+<rect x="26" y="12" width="80" height="93" rx="16" fill="url(#edge)"/>
+<path d="M33 14h36l8 10h19v67H33Z" fill="url(#mint)"/>
+<path d="M18 35a16 16 0 0 1 16-16h29a11 11 0 0 1 8 4l9 9h17a13 13 0 0 1 13 13v54a16 16 0 0 1-16 16H34a16 16 0 0 1-16-16Z" fill="url(#blue)"/>
+<path d="M34 20h29a10 10 0 0 1 7 3l9 10h18a12 12 0 0 1 12 12" fill="none" stroke="#AAC0FF" stroke-width="1.3" opacity=".9"/>
+<path d="M38 46h13l13 21 13-21h13L70 79v19H58V79Z" fill="url(#paper)"/>
+<path d="m64 67 6 12v19H58V79Z" fill="#D1E0FF"/>
+<path d="m76 46-6 10h12l8-10Z" fill="#BCF6E8"/>
+<path d="M95 57v25M100 61v13" stroke="#B1CAFF" stroke-width="1.5" stroke-linecap="round" opacity=".65"/>
+</svg>

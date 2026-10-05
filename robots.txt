@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ryosukesakakibara718.github.io/your-index-support/sitemap.xml
